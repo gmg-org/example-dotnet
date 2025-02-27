@@ -26,4 +26,4 @@ msbuild example-dotnet/
 srcclr scan example-dotnet/
 ```
 
-Test 1
+Test 2
